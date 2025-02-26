@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{44D64AEC-1D81-4511-9A7B-6B65609C9DCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{B97421B8-39BE-4D83-AC49-563E5258D24D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{62D56871-AF97-43F6-8B1C-85AF17EC4767}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{01EE140A-FB95-44C4-B688-73A8E373B3CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{35018F1C-0E2E-4F34-AB69-18190B14F085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerMatcher.Application", "CareerMatcher.Application\CareerMatcher.Application.csproj", "{288E88B7-CAB3-4895-8F80-15614C7D9470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerMatcher.Domain", "CareerMatcher.Domain\CareerMatcher.Domain.csproj", "{56B64750-5961-4A53-AA34-652A0F7F57CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerMatcher.Infrastructure", "CareerMatcher.Infrastructure\CareerMatcher.Infrastructure.csproj", "{FBE14E90-A903-436C-9010-9FE44FBCE1F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerMatcher.Test", "CareerMatcher.Test\CareerMatcher.Test.csproj", "{8674A539-1708-4BB5-BD08-52B117933D5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{288E88B7-CAB3-4895-8F80-15614C7D9470} = {B97421B8-39BE-4D83-AC49-563E5258D24D}
+		{56B64750-5961-4A53-AA34-652A0F7F57CF} = {44D64AEC-1D81-4511-9A7B-6B65609C9DCD}
+		{FBE14E90-A903-436C-9010-9FE44FBCE1F5} = {62D56871-AF97-43F6-8B1C-85AF17EC4767}
+		{8674A539-1708-4BB5-BD08-52B117933D5F} = {35018F1C-0E2E-4F34-AB69-18190B14F085}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{288E88B7-CAB3-4895-8F80-15614C7D9470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288E88B7-CAB3-4895-8F80-15614C7D9470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288E88B7-CAB3-4895-8F80-15614C7D9470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288E88B7-CAB3-4895-8F80-15614C7D9470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B64750-5961-4A53-AA34-652A0F7F57CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B64750-5961-4A53-AA34-652A0F7F57CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B64750-5961-4A53-AA34-652A0F7F57CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B64750-5961-4A53-AA34-652A0F7F57CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBE14E90-A903-436C-9010-9FE44FBCE1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE14E90-A903-436C-9010-9FE44FBCE1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE14E90-A903-436C-9010-9FE44FBCE1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE14E90-A903-436C-9010-9FE44FBCE1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8674A539-1708-4BB5-BD08-52B117933D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8674A539-1708-4BB5-BD08-52B117933D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8674A539-1708-4BB5-BD08-52B117933D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8674A539-1708-4BB5-BD08-52B117933D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
