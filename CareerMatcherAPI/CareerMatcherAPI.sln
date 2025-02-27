@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{4982B801-0FE0-41F7-8EEE-B7B64BF23CCB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{DBB97D9B-87B9-4E05-9C28-37BE7987E972}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{6F5858FC-D358-4DE3-A2A3-8C3F6EE72DD6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{68F4B892-B3B3-4EBA-971C-D4B9B32369E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerMatcherAPI.Domain", "CareerMatcherAPI.Domain\CareerMatcherAPI.Domain.csproj", "{C09D6BB7-C1E1-46B6-B874-65A11048B3D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerMatcherAPI.Application", "CareerMatcherAPI.Application\CareerMatcherAPI.Application.csproj", "{5D4D37F1-1037-4187-A956-6E3744168E71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerMatcherAPI.Infrastructure", "CareerMatcherAPI.Infrastructure\CareerMatcherAPI.Infrastructure.csproj", "{98F537AA-18E9-4CB5-AFD6-2B16ED01DB14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerMatcherAPI.Test", "CareerMatcherAPI.Test\CareerMatcherAPI.Test.csproj", "{4EC519A1-06D6-48E9-A8DA-0FAE39782355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C09D6BB7-C1E1-46B6-B874-65A11048B3D4} = {4982B801-0FE0-41F7-8EEE-B7B64BF23CCB}
+		{5D4D37F1-1037-4187-A956-6E3744168E71} = {4982B801-0FE0-41F7-8EEE-B7B64BF23CCB}
+		{98F537AA-18E9-4CB5-AFD6-2B16ED01DB14} = {DBB97D9B-87B9-4E05-9C28-37BE7987E972}
+		{4EC519A1-06D6-48E9-A8DA-0FAE39782355} = {68F4B892-B3B3-4EBA-971C-D4B9B32369E9}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C09D6BB7-C1E1-46B6-B874-65A11048B3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09D6BB7-C1E1-46B6-B874-65A11048B3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09D6BB7-C1E1-46B6-B874-65A11048B3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09D6BB7-C1E1-46B6-B874-65A11048B3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D4D37F1-1037-4187-A956-6E3744168E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4D37F1-1037-4187-A956-6E3744168E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4D37F1-1037-4187-A956-6E3744168E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4D37F1-1037-4187-A956-6E3744168E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98F537AA-18E9-4CB5-AFD6-2B16ED01DB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F537AA-18E9-4CB5-AFD6-2B16ED01DB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F537AA-18E9-4CB5-AFD6-2B16ED01DB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F537AA-18E9-4CB5-AFD6-2B16ED01DB14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EC519A1-06D6-48E9-A8DA-0FAE39782355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC519A1-06D6-48E9-A8DA-0FAE39782355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC519A1-06D6-48E9-A8DA-0FAE39782355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC519A1-06D6-48E9-A8DA-0FAE39782355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
