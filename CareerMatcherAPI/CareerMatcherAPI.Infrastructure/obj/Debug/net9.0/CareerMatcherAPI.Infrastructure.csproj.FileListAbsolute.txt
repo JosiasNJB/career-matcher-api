@@ -16,3 +16,5 @@ C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatc
 C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Infrastructure\obj\Debug\net9.0\CareerMatcherAPI.Infrastructure.pdb
 C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Infrastructure\obj\Debug\net9.0\CareerMatcherAPI.Infrastructure.genruntimeconfig.cache
 C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Infrastructure\obj\Debug\net9.0\ref\CareerMatcherAPI.Infrastructure.dll
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Infrastructure\bin\Debug\net9.0\CareerMatcherAPI.Application.dll
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Infrastructure\bin\Debug\net9.0\CareerMatcherAPI.Application.pdb

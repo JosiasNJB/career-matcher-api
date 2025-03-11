@@ -1,5 +1,5 @@
 @page "/Candidatos"
-@inject ICandidatoService CandidatoService
+@inject ISender Sender
 <PageTitle>Candidatos</PageTitle>
 <h3>Candidatos</h3>
 @if (candidatos.Count == 0)
@@ -19,8 +19,7 @@ else
     
     protected override async Task OnInitializedAsync()
     {
-        await Task.Delay(1000);
-        var result = await CandidatoService.GetAllCandidatosAsync();
+        var result = await Sender.Send(new GetCandidatosQuery());
         
         if (result is not null)
         {

@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "zWgt7HE3Mvw=",
+  "dgSpecHash": "Wpd9I7eHlBo=",
   "success": true,
   "projectFilePath": "C:\\Users\\jojar\\Documents\\Study\\C#\\career-matcher-api\\CareerMatcherAPI\\CareerMatcherAPI.Application\\CareerMatcherAPI.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jojar\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\jojar\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\jojar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
   ],
   "logs": []

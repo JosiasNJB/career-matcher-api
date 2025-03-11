@@ -174,3 +174,5 @@ C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatc
 C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.WebAPI\obj\Debug\net9.0\CareerMatcherAPI.WebAPI.pdb
 C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.WebAPI\obj\Debug\net9.0\CareerMatcherAPI.WebAPI.genruntimeconfig.cache
 C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.WebAPI\obj\Debug\net9.0\ref\CareerMatcherAPI.WebAPI.dll
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.WebAPI\bin\Debug\net9.0\MediatR.dll
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.WebAPI\bin\Debug\net9.0\MediatR.Contracts.dll
