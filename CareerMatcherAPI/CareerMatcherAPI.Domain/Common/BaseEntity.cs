@@ -1,10 +1,12 @@
+using System.ComponentModel.DataAnnotations;
 using System.Reflection;
 
 namespace CareerMatcherAPI.Domain.Common;
 
-public class BaseEntity
+public abstract class BaseEntity
 {
     // Identificador único da entidade. Mesmo que um item seja excluído, esse ID nunca será repetido.
+    [Key]
     public Guid Id { get; set; }
 
     // Data em que a entidade foi criada

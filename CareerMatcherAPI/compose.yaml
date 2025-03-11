@@ -1,0 +1,6 @@
+﻿services:
+  careermatcherapi.webapi:
+    image: careermatcherapi.webapi
+    build:
+      context: .
+      dockerfile: CareerMatcherAPI.WebAPI/Dockerfile

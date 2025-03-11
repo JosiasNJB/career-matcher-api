@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6d83f82-d188-4e29-a3b3-d3a5f4580027" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/Context/AppDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CareerMatcherAPI/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Application/CareerMatcherAPI.Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Application/CareerMatcherAPI.Application.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Application/obj/CareerMatcherAPI.Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Application/obj/CareerMatcherAPI.Application.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Application/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Application/obj/Debug/net9.0/CareerMatcherAPI.Application.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Application/obj/Debug/net9.0/CareerMatcherAPI.Application.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Application/obj/Debug/net9.0/CareerMatcherAPI.Application.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Application/obj/Debug/net9.0/CareerMatcherAPI.Application.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Application/obj/Debug/net9.0/CareerMatcherAPI.Application.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Application/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Application/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Application/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Application/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Application/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Application/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Application/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/Common/BaseEntity.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/Entities/Candidato.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/Entities/Concurso.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/Entities/Profissao.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/Interfaces/Common/IBaseRepository.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/Interfaces/Common/IUnityOfWork.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/Interfaces/Entities/ICandidatoRepository.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/Interfaces/Entities/IConcursoRepository.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/Interfaces/Entities/IProfissaoRepository.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/Validation/Validations.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/obj/CareerMatcherAPI.Domain.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Domain/obj/CareerMatcherAPI.Domain.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/obj/Debug/net9.0/CareerMatcherAPI.Domain.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/obj/Debug/net9.0/CareerMatcherAPI.Domain.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/obj/Debug/net9.0/CareerMatcherAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/obj/Debug/net9.0/CareerMatcherAPI.Domain.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/obj/Debug/net9.0/CareerMatcherAPI.Domain.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Domain/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Domain/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Domain/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Domain/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Domain/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/CareerMatcherAPI.Infrastructure.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/CareerMatcherAPI.Infrastructure.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/CareerMatcherAPI.Infrastructure.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/CareerMatcherAPI.Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/CareerMatcherAPI.Infrastructure.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/CareerMatcherAPI.Infrastructure.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/CareerMatcherAPI.Infrastructure.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/CareerMatcherAPI.Infrastructure.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/Debug/net9.0/CareerMatcherAPI.Infrastructure.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/Debug/net9.0/CareerMatcherAPI.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/Debug/net9.0/CareerMatcherAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/Debug/net9.0/CareerMatcherAPI.Infrastructure.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/Debug/net9.0/CareerMatcherAPI.Infrastructure.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Test/CareerMatcherAPI.Test.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Test/obj/CareerMatcherAPI.Test.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Test/obj/CareerMatcherAPI.Test.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Test/obj/CareerMatcherAPI.Test.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Test/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Test/obj/Debug/net9.0/CareerMatcherAPI.Test.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Test/obj/Debug/net9.0/CareerMatcherAPI.Test.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Test/obj/Debug/net9.0/CareerMatcherAPI.Test.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Test/obj/Debug/net9.0/CareerMatcherAPI.Test.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Test/obj/Debug/net9.0/CareerMatcherAPI.Test.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Test/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Test/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Test/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Test/obj/rider.project.model.nuget.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.Test/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareerMatcherAPI.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CareerMatcherAPI.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global.json" beforeDir="false" afterPath="$PROJECT_DIR$/global.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../career_matcher_db.brM3" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CareerManagerAPI.Domain/Class1.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Toolset" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2u9AeJQ2LWjbqFfufqt3uvV71By" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6d83f82-d188-4e29-a3b3-d3a5f4580027" name="Changes" comment="" />
+      <created>1741650510055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741650510055</updated>
+      <workItem from="1741650511145" duration="723000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

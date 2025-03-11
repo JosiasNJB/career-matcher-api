@@ -1,0 +1,12 @@
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Domain\bin\Debug\net9.0\CareerMatcherAPI.Domain.deps.json
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Domain\bin\Debug\net9.0\CareerMatcherAPI.Domain.dll
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Domain\bin\Debug\net9.0\CareerMatcherAPI.Domain.pdb
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Domain\obj\Debug\net9.0\CareerMatcherAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Domain\obj\Debug\net9.0\CareerMatcherAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Domain\obj\Debug\net9.0\CareerMatcherAPI.Domain.AssemblyInfo.cs
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Domain\obj\Debug\net9.0\CareerMatcherAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Domain\obj\Debug\net9.0\CareerMatcherAPI.Domain.sourcelink.json
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Domain\obj\Debug\net9.0\CareerMatcherAPI.Domain.dll
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Domain\obj\Debug\net9.0\refint\CareerMatcherAPI.Domain.dll
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Domain\obj\Debug\net9.0\CareerMatcherAPI.Domain.pdb
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Domain\obj\Debug\net9.0\ref\CareerMatcherAPI.Domain.dll

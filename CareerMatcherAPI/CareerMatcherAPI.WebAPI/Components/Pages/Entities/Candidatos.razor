@@ -1,0 +1,31 @@
+@page "/Candidatos"
+@inject ICandidatoService CandidatoService
+<PageTitle>Candidatos</PageTitle>
+<h3>Candidatos</h3>
+@if (candidatos.Count == 0)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    @foreach(var candidato in candidatos)
+    {
+        <p>@candidato.Nome</p>
+    }
+}
+
+@code {
+    private List<Candidato> candidatos = new List<Candidato>();
+    
+    protected override async Task OnInitializedAsync()
+    {
+        await Task.Delay(1000);
+        var result = await CandidatoService.GetAllCandidatosAsync();
+        
+        if (result is not null)
+        {
+            candidatos = result;
+        }
+    }
+    
+}

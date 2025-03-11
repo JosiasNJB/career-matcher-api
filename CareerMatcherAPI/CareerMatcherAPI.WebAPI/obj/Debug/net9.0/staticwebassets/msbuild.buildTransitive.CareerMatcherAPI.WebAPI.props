@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CareerMatcherAPI.WebAPI.props" />
+</Project>

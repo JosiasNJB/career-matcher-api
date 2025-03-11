@@ -1,0 +1,16 @@
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Application\bin\Debug\net9.0\CareerMatcherAPI.Application.deps.json
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Application\bin\Debug\net9.0\CareerMatcherAPI.Application.dll
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Application\bin\Debug\net9.0\CareerMatcherAPI.Application.pdb
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Application\bin\Debug\net9.0\CareerMatcherAPI.Domain.dll
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Application\bin\Debug\net9.0\CareerMatcherAPI.Domain.pdb
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Application\obj\Debug\net9.0\CareerMatcherAPI.Application.csproj.AssemblyReference.cache
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Application\obj\Debug\net9.0\CareerMatcherAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Application\obj\Debug\net9.0\CareerMatcherAPI.Application.AssemblyInfoInputs.cache
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Application\obj\Debug\net9.0\CareerMatcherAPI.Application.AssemblyInfo.cs
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Application\obj\Debug\net9.0\CareerMatcherAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Application\obj\Debug\net9.0\CareerMatcherAPI.Application.sourcelink.json
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Application\obj\Debug\net9.0\CareerMa.B77F3FBC.Up2Date
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Application\obj\Debug\net9.0\CareerMatcherAPI.Application.dll
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Application\obj\Debug\net9.0\refint\CareerMatcherAPI.Application.dll
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Application\obj\Debug\net9.0\CareerMatcherAPI.Application.pdb
+C:\Users\jojar\Documents\Study\C#\career-matcher-api\CareerMatcherAPI\CareerMatcherAPI.Application\obj\Debug\net9.0\ref\CareerMatcherAPI.Application.dll
